@@ -1,0 +1,6 @@
+@JustDeliverMe.WebApi_HostAddress = http://localhost:5111
+
+GET {{JustDeliverMe.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

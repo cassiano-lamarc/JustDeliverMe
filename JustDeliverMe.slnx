@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="JustDeliverMe.Application/JustDeliverMe.Application.csproj" />
+  <Project Path="JustDeliverMe.Domain/JustDeliverMe.Domain.csproj" />
+  <Project Path="JustDeliverMe.Infra/JustDeliverMe.Infra.csproj" Id="f8c769ac-ad0c-463f-a6e5-0ddd010d9bc8" />
+  <Project Path="JustDeliverMe.WebApi/JustDeliverMe.WebApi.csproj" Id="a5260836-5b9a-441a-a1f4-40b7083c338b" />
+</Solution>
