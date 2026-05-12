@@ -3,4 +3,4 @@ using MediatR;
 
 namespace JustDeliverMe.Application.Handlers.Commands.Point.Create;
 
-public record CreatePointCommand(Guid tenantId, string description, string? code) : IRequest<Points>;
+public record CreatePointCommand(Guid tenantId, string description, string? code = null) : IRequest<Points>;
